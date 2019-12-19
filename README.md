@@ -8,5 +8,6 @@
 - German: mtrx.#5969
 - Norwegian: maiu#4059
 - Spanish: suspect#0008
+- English: Sleep
 
 If you would like to help translate, send a DM to maiu#4059.
