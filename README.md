@@ -8,5 +8,5 @@
 - German: mtrx.#5969
 - Norwegian: maiu#4059
 - Spanish: suspect#0008
-
+- Hebrew: Red Zone#0651
 If you would like to help translate, send a DM to maiu#4059.
