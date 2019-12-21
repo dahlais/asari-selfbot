@@ -6,8 +6,9 @@
 - English: sleep#0110
 - French: tagadee#8623, dob#0001
 - German: mtrx.#5969
+- Hebrew: Red Zone#0651
 - Norwegian: maiu#4059
 - Spanish: suspect#0008
-- Hebrew: Red Zone#0651
+- Tagalog: Jedrik#0154
 
 If you would like to help translate, send a DM to maiu#4059.
