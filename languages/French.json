@@ -258,5 +258,15 @@
     "savedfriends":"{} amis sauvegardés dans `Misc/friends.txt`!",
     "configerror":"Erreur | Avez vous bien remplis le fichier config? | Token d'utilisateur seulement!",
     "hwidnomatch":"Désolé, mais votre HWID ne corespond pas avec notre base de donnée.",
-    "website":"Site web"
+    "website":"Site web",
+    "deletedmsgby":"{}Deleted message by {}{}{} in {}{}{} || {}{}",
+    "sentby":"Sent by {}#{}",
+    "snipedmessage":"Sniped Message!",
+    "scrapedusers":"Scraped {} usernames! Saved to `Misc/Scraped_usernames/names.txt`",
+    "foundvc":"Found {} voice channels to name change!",
+    "specifytimes":"Please specify how many times you want to change the name!",
+    "snipemodeon":"Sniping turned on!",
+    "snipemodeon1":"Snipe mode enabled!",
+    "snipemodeoff":"Sniping turned off!",
+    "snipemodeoff1":"Snipe mode disabled!"
 }
