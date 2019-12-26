@@ -259,5 +259,16 @@
     "savedfriends":"Lagret {} venner til `Misc/friends.txt`!",
     "configerror":"Error | Er config-filen satt opp riktig? | Kun bruker-tokens er tillatt!",
     "hwidnomatch":"Beklager, men din HWID passer ikke med noen i databasen.",
-    "website":"Nettside"
+    "website":"Nettside",
+    "deletedmsgby":"{}Slettet melding av {}{}{} i {}{}{} || {}{}",
+    "sentby":"Sendt av {}#{}",
+    "snipedmessage":"Sniped Melding!",
+    "scrapedusers":"Lagret {} brukernavn! Lagret til `Misc/Scraped_usernames/names.txt`",
+    "foundvc":"Fant {} snakkekanaler som kan endres navn på!",
+    "specifytimes":"Velg hvor mange ganger du vil endre navnet!",
+    "snipemodeon":"Sniping skrudd på!",
+    "snipemodeon1":"Snipe modus aktivert!",
+    "snipemodeoff":"Sniping skrudd av!",
+    "snipemodeoff1":"Snipe modus deaktivert!",
+    "createdroles":"Laget roller!"
 }
