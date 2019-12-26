@@ -259,5 +259,16 @@
     "savedfriends":"Na-save ang {} na friends sa `Misc/friends.txt`!",
     "configerror":"Error | Tama ba ang pag-ayos ng config? | Token lang ng gumagamit dapat!",
     "hwidnomatch":"Wala ang iyong hwid sa aming database",
-    "website":"Website"
+    "website":"Website",
+    "deletedmsgby":"{}Deleted message by {}{}{} in {}{}{} || {}{}",
+    "sentby":"Sent by {}#{}",
+    "snipedmessage":"Sniped Message!",
+    "scrapedusers":"Scraped {} usernames! Saved to `Misc/Scraped_usernames/names.txt`",
+    "foundvc":"Found {} voice channels to name change!",
+    "specifytimes":"Please specify how many times you want to change the name!",
+    "snipemodeon":"Sniping turned on!",
+    "snipemodeon1":"Snipe mode enabled!",
+    "snipemodeoff":"Sniping turned off!",
+    "snipemodeoff1":"Snipe mode disabled!",
+    "createdroles":"Created roles!"
 }
