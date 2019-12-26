@@ -259,5 +259,16 @@
     "savedfriends":"Se han guardado {} amigos en `Misc/friends.txt`!",
     "configerror":"Error | La configuración está configurada correctamente? | ¡Solo tokens de usuario!",
     "hwidnomatch":"Lo sentimos, pero su hwid no esta con ninguno en la base de datos.",
-    "website":"Sitio web"
+    "website":"Sitio web",
+    "deletedmsgby":"{}Deleted message by {}{}{} in {}{}{} || {}{}",
+    "sentby":"Sent by {}#{}",
+    "snipedmessage":"Sniped Message!",
+    "scrapedusers":"Scraped {} usernames! Saved to `Misc/Scraped_usernames/names.txt`",
+    "foundvc":"Found {} voice channels to name change!",
+    "specifytimes":"Please specify how many times you want to change the name!",
+    "snipemodeon":"Sniping turned on!",
+    "snipemodeon1":"Snipe mode enabled!",
+    "snipemodeoff":"Sniping turned off!",
+    "snipemodeoff1":"Snipe mode disabled!",
+    "createdroles":"Created roles!"
 }
