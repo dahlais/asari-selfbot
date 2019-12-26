@@ -258,5 +258,15 @@
     "savedfriends":"Saved {} friends to `Misc/friends.txt`! - נשמרה רשימה של החברים שלך",
     "configerror":"!שגיאה | האם ההגדרה מוגדרת כראוי? | אסימוני משתמש בלבד!",
     "hwidnomatch":".מצטערים אך זיהוי החומרה שלך אינו תואם לאף אחד בבסיס הנתונים.",
-    "website":"אתר אינטרנט"
+    "website":"אתר אינטרנט",
+    "deletedmsgby":"{}Deleted message by {}{}{} in {}{}{} || {}{}",
+    "sentby":"Sent by {}#{}",
+    "snipedmessage":"Sniped Message!",
+    "scrapedusers":"Scraped {} usernames! Saved to `Misc/Scraped_usernames/names.txt`",
+    "foundvc":"Found {} voice channels to name change!",
+    "specifytimes":"Please specify how many times you want to change the name!",
+    "snipemodeon":"Sniping turned on!",
+    "snipemodeon1":"Snipe mode enabled!",
+    "snipemodeoff":"Sniping turned off!",
+    "snipemodeoff1":"Snipe mode disabled!"
 }
